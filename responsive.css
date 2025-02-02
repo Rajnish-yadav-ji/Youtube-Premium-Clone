@@ -140,18 +140,18 @@
     display: inline;
     }
     .ytPremium {
-    height: 75%;
+    height: 80%;
     }
     .ytDesc>h2 {
         width: 100%; 
     }
     .features {
         flex-direction: column;
-        height: 95%;
+        height: 100%;
     }
     .features div {
         width: 70%;
-        height: 70%;
+        height: 60%;
         display: flex;
         flex-direction: column;
         justify-content: center;
